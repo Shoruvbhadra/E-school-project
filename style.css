@@ -1,0 +1,45 @@
+.container{
+    background-color: rgba(197, 236, 226, 0.589);
+}
+.banner{
+    height: 400px;
+    padding-left: 40px ;
+
+}
+a{
+    color: black;
+}
+.sign{
+    border: 2px solid rgb(19, 153, 120);
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color:rgb(19, 153, 120) ;
+}
+small{
+    color: red;
+}
+.schedule{
+    color:rgb(8, 145, 110) ;
+}
+.get-start{
+    padding: 5px 10px;
+    border-radius: 50px;
+    background-color: rgb(8, 145, 110);
+    color: white;
+}
+.logo{
+    margin-top: 20px;
+}
+.topics{
+    margin-top: 50px;
+    height: 200px;
+}
+.topic1, .topic2, .topic3, .topic4 {
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.topic2{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightslategray ;
+}
