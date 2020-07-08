@@ -2,9 +2,13 @@
     background-color: rgba(197, 236, 226, 0.589);
 }
 .banner{
-    height: 400px;
+   
     padding-left: 40px ;
 
+}
+.school-logo{
+    margin-bottom: 10px;
+    
 }
 a{
     color: black;
@@ -33,7 +37,6 @@ small{
 }
 .topics{
     margin-top: 50px;
-    height: 200px;
     background-color: white;
 }
 .topic1, .topic2, .topic3, .topic4 {
@@ -71,14 +74,14 @@ small{
 }
 .footer{
     margin-top: 80px;
-    height: 280px;
+   
     padding: 60px 60px;
     color: white;
     background-color: rgb(31, 28, 28);
 }
 .copyright{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
     font-size: small;
 }
 .end-list{
