@@ -34,12 +34,45 @@ small{
 .topics{
     margin-top: 50px;
     height: 200px;
+    background-color: white;
 }
 .topic1, .topic2, .topic3, .topic4 {
     padding: 20px 20px;
     border-radius: 10px;
+    background-color: rgba(197, 236, 226, 0.589) ;
 }
 .topic2{
     background-color: white;
     box-shadow: 5px 5px 10px lightslategray ;
+}
+.courses{
+    text-align: center;
+    margin-top: 70px;
+}
+.options{
+    background-color: white;
+    margin-top: 50px;
+}
+.card-footer{
+    background-color: white;
+}
+.Testimonial{
+    text-align: center;
+    margin-top: 70px;
+}
+.testimonial{
+   margin-top: 50px;
+    background-color: white;
+    padding: 0px 100px;
+}
+.footer{
+    margin-top: 80px;
+    height: 280px;
+    padding: 60px 60px;
+    color: white;
+    background-color: rgb(31, 28, 28);
+}
+.copyright{
+    text-align: center;
+    margin-top: 20px;
 }
